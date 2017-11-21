@@ -1,2 +1,2 @@
-# MySQL-SMD
-Creation of Securities Master Database with MySQL
+# SQL-Relational-Databases
+Relational databses work in SQL
