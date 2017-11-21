@@ -1,2 +1,2 @@
 # MySQL-SMD
-Creation and manipulation of Securities Master Database with MySQL
+Creation of Securities Master Database with MySQL
