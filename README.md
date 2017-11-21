@@ -1,2 +1,2 @@
 # SQL-Relational-Databases
-Relational databses work in SQL
+Relational databases work in SQL
